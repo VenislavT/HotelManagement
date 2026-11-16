@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HotelManagement.vcxproj" Id="1413d2e6-27bf-482b-99d2-614fcf273c58" />
+</Solution>

@@ -1,0 +1,12 @@
+# Build output
+x64/
+Debug/
+Release/
+*.exe
+
+# Visual Studio
+.vs/
+*.user
+
+# Report the program creates
+data/report.txt
